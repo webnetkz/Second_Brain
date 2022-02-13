@@ -73,3 +73,6 @@ datas=[('assets/chars/*','assets/chars'),('assets/tiles/*.png','assets/tiles'),(
 ```
 pyinstaller main_game_script.spec
 ```
+
+[[Python]] [[exe]]
+
