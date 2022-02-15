@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atamura/Atamura digit book.md",
+            "file": "Unix/Linux/mount.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atamura/Atamura digit book.md",
+                "file": "Unix/Linux/mount.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "b8c9b6638fc6ed90",
   "lastOpenFiles": [
-    "Atamura/Atamura digit book.md",
     "Unix/Linux/mount.md",
+    "Atamura/Atamura digit book.md",
     "Unix/Linux/Ubuntu/Ubuntu.md",
     "Unix/Linux/Linux.md",
     "Unix/Unix.md",
