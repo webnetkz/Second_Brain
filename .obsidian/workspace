@@ -7,8 +7,11 @@
         "id": "b8c9b6638fc6ed90",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Atamura/Atamura digit book.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 177
+    "width": 217
   },
   "right": {
     "id": "705a650e955cbe3b",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atamura/Atamura digit book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "b8c9b6638fc6ed90",
   "lastOpenFiles": [
+    "Atamura/Atamura digit book.md",
+    "Unix/Linux/mount.md",
+    "Unix/Linux/Ubuntu/Ubuntu.md",
+    "Unix/Linux/Linux.md",
+    "Unix/Unix.md",
     "Windows/exe.md",
     "Windows/Windows.md",
     "WEB/PHP/Composer/StartComposer.md",
     "WEB/PHP/Laravel/Популярность MVC.md",
-    "WEB/PHP/Laravel/Laravel.md",
-    "WEB/Java Script/Java Script.md",
-    "WEB/CSS/CSS.md",
-    "Algorithms/Algorithms.md",
-    "Computer Science/Computer Science.md",
-    "Теория поведения/Дейл Карнеги/Как приобрести друзей и сохранить старых.md"
+    "WEB/PHP/Laravel/Laravel.md"
   ]
 }
